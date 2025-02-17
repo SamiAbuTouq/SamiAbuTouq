@@ -21,7 +21,7 @@
 
 <br><br><br><br><br><br>
 
-<div style="display: flex; justify-content: space-between;">
+<div>
     <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=samiabutouq&theme=dark" alt="samiabutouq" />
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=samiabutouq&show_icons=true&theme=dark&locale=en" alt="samiabutouq" />
 </div>
