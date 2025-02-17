@@ -21,12 +21,37 @@
 
 
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=samiabutouq&show_icons=true&theme=default#gh-light-mode-only" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=samiabutouq&show_icons=true&theme=dark#gh-dark-mode-only" />
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=samiabutouq&theme=default#gh-light-mode-only" />
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=samiabutouq&theme=dark#gh-dark-mode-only" />
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=samiabutouq&show_icons=true&locale=en&theme=default" 
+    alt="samiabutouq stats (light theme)" 
+    style="height: 150px; margin-right: 10px;" 
+  />
+  
+  <!-- Streak Stats Card -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=samiabutouq&theme=default" 
+    alt="samiabutouq streak stats (light theme)" 
+    style="height: 150px;" 
+  />
+</div>
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- GitHub Stats Card (Dark Theme) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=samiabutouq&show_icons=true&locale=en&theme=dark" 
+    alt="samiabutouq stats (dark theme)" 
+    style="height: 150px; margin-right: 10px;" 
+  />
+  
+  <!-- Streak Stats Card (Dark Theme) -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=samiabutouq&theme=dark" 
+    alt="samiabutouq streak stats (dark theme)" 
+    style="height: 150px;" 
+  />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
