@@ -24,6 +24,18 @@
 
 <div align="center"> <img height="200" src="https://github-readme-stats.vercel.app/api?username=samiabutouq&show_icons=true&theme=transparent&text_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&border_color=58a6ff&border_radius=6" alt="samiabutouq's GitHub stats" /> <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=samiabutouq&theme=transparent&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=58a6ff&border=58a6ff&stroke=58a6ff&border_radius=6" alt="samiabutouq's GitHub streak" /> </div>
 
+//////////////////
+
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SamiAbuTouq&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SamiAbuTouq&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamiAbuTouq&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SamiAbuTouq&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <picture>
