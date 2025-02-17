@@ -21,14 +21,10 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samiabutouq&show_icons=true&locale=en&theme=github" alt="samiabutouq" height="200" style="margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiabutouq&theme=github" alt="samiabutouq" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samiabutouq&show_icons=true&locale=en&theme=github" alt="samiabutouq" width="400" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiabutouq&theme=github" alt="samiabutouq" width="400" />
 </p>
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/output/github-snake-dark.svg" />
