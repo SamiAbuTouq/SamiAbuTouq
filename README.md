@@ -1,7 +1,7 @@
 <h1 align="center">🔹 Greetings, I'm Sami Abu Touq</h1>
 <h3 align="center">A Computer Science student at PSUT</h3>
 
-- 👨‍💻 My portfolio [https://Sami-Abu-Touq/](https://samiabutouq.github.io/Sami-Abu-Touq/)
+- 👨‍💻 My portfolio [https://Sami-Abu-Touq](https://samiabutouq.github.io/Sami-Abu-Touq/)
 
 - 📫 How to reach me **samiabutouq5@gmail.com**
 
