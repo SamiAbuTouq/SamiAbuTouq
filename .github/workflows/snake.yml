@@ -13,25 +13,24 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
+    timeout-minutes: 5
     steps:
-      - name: Generate snake animation (dark mode)
+      # Generate snake.svg for light theme
+      - name: Generate snake.svg (light theme)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake.svg
+          outputs: dist/github-snake.svg?palette=github-light
 
-      - name: Generate snake animation (light mode)
+      # Generate snake.svg for dark theme
+      - name: Generate snake.svg (dark theme)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake-light.svg?palette=github-light
+          outputs: dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push snake animations to the output branch
+      # Push both SVG files to the output branch
+      - name: Push snake.svg files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
