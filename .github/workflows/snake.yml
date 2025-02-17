@@ -1,5 +1,4 @@
 name: Generate snake animation
-
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -7,14 +6,12 @@ on:
   push:
     branches:
       - master
-
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
       - name: Generate snake animation (dark mode)
         uses: Platane/snk/svg-only@v3
@@ -22,14 +19,12 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#DC3545&color_dots=#2D333B,#0E4429,#006D32,#26A641,#39D353
-
       - name: Generate snake animation (light mode)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake-light.svg?palette=github-light&color_snake=#DC3545&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
-
       - name: Push snake animations to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
