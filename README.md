@@ -21,7 +21,6 @@
 
 <p align="center"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=samiabutouq&show_icons=true&locale=en" alt="samiabutouq" height="200"/>
-  <br>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samiabutouq&theme=default" alt="samiabutouq" height="200"/>
 </p>
 
