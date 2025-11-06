@@ -20,7 +20,7 @@
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samiabutouq&show_icons=true&locale=en" alt="samiabutouq"/>
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiabutouq&theme=default" alt="samiabutouq" width="49%"/> -->
-</div> -->
+</div> 
 
 
 <picture>
