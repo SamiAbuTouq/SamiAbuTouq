@@ -1,6 +1,6 @@
 <h3 align="center">A Computer Science student at PSUT</h3>
 
-- 👨‍💻 My portfolio [https://Sami-Abu-Touq](https://samiabutouq.github.io/Sami-Abu-Touq/)
+- 👨‍💻 My portfolio [https://Sami-Abu-Touq](https://sami-abu-touq.pages.dev/)
 
 - 📫 How to reach me **samiabutouq5@gmail.com**
 
