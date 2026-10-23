@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **samiabutouq5@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://github.com/SamiAbuTouq/Sami-Abu-Touq/blob/main/public/legacy/Sami_Abu_Touq_CV.pdf)
+- 📄 Know about my experiences [My Resume](https://sami-abu-touq.pages.dev/cv-page)
 
 - ⚡ Fun fact **I talk to my code more than I talk to people. It listens… sometimes. 😅**
 
