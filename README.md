@@ -17,12 +17,12 @@
 
 <p align="left">
 <picture><img src="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/main/assets/c.png" alt="c" title="C"  width="46" height="46"/></picture>&nbsp;&nbsp;
-<picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/></picture>&nbsp;&nbsp;
-<picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="40" height="40"/></picture>&nbsp;&nbsp;
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" title="ASP.NET" width="40" height="40"/></picture>&nbsp;&nbsp;
 <picture><img src="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/main/assets/dynamics365.png" alt="dynamics365" title="Dynamics 365" height="40"/></picture>&nbsp;&nbsp;
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40"/></picture>&nbsp;&nbsp;
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40"/></picture>&nbsp;&nbsp;
+  <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/></picture>&nbsp;&nbsp;
+<picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="40" height="40"/></picture>&nbsp;&nbsp;
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="PHP" width="40" height="40"/></picture>&nbsp;&nbsp;
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" title="Dart" width="40" height="40"/></picture>&nbsp;&nbsp;
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" title="Flutter" width="40" height="40"/></picture>&nbsp;&nbsp;
