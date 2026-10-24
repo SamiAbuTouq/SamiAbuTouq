@@ -19,7 +19,6 @@
 <picture><img src="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/main/assets/c.png" alt="c" title="C" height="40"/></picture>&nbsp;&nbsp;
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/></picture>&nbsp;&nbsp;
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="40" height="40"/></picture>&nbsp;&nbsp;
-  <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet"title="ASP.NET"  width="40" height="40"/></picture>&nbsp;&nbsp;
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" title="ASP.NET" width="40" height="40"/></picture>&nbsp;&nbsp;
 <picture><img src="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/main/assets/dynamics365.png" alt="dynamics365" title="Dynamics 365" height="40"/></picture>&nbsp;&nbsp;
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40"/></picture>&nbsp;&nbsp;
