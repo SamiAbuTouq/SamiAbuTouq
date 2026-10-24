@@ -19,9 +19,8 @@
 <picture><img src="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/main/assets/c.png" alt="c" title="C" height="40"/></picture>&nbsp;&nbsp;
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/></picture>&nbsp;&nbsp;
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="40" height="40"/></picture>&nbsp;&nbsp;
-<picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" title=".NET" width="40" height="40"/></picture>&nbsp;&nbsp;
-<picture><img src="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/main/assets/aspnet.png" alt="aspnet" title="ASP.NET Web API" height="40"/></picture>&nbsp;&nbsp;
-<picture><img src="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/main/assets/rest-api.png" alt="rest-api" title="REST API" height="40"/></picture>&nbsp;&nbsp;
+  <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet"title="ASP.NET"  width="40" height="40"/></picture>&nbsp;&nbsp;
+<picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" title="ASP.NET" width="40" height="40"/></picture>&nbsp;&nbsp;
 <picture><img src="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/main/assets/dynamics365.png" alt="dynamics365" title="Dynamics 365" height="40"/></picture>&nbsp;&nbsp;
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40"/></picture>&nbsp;&nbsp;
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40"/></picture>&nbsp;&nbsp;
@@ -39,6 +38,7 @@
 <picture><img src="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/main/assets/cursor.png" alt="cursor" title="Cursor" height="40"/></picture>&nbsp;&nbsp;
 <picture><img src="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/main/assets/antigravity.png" alt="antigravity" title="Antigravity" height="40"/></picture>
 </p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/output/github-snake-light.svg" />
