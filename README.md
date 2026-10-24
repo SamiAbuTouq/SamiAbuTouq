@@ -15,12 +15,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
 <picture><img src="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/main/assets/c.png" alt="c" title="C" height="40"/></picture>
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/></picture>
