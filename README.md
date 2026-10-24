@@ -17,11 +17,18 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
-<picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"/></picture>
+<picture><img src="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/main/assets/c.png" alt="c" title="C" height="40"/></picture>
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/></picture>
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="40" height="40"/></picture>
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" title=".NET" width="40" height="40"/></picture>
+<picture><img src="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/main/assets/aspnet.png" alt="aspnet" title="ASP.NET Web API" height="40"/></picture>
+<picture><img src="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/main/assets/rest-api.png" alt="rest-api" title="REST API" height="40"/></picture>
+<picture><img src="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/main/assets/dynamics365.png" alt="dynamics365" title="Dynamics 365" height="40"/></picture>
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40"/></picture>
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40"/></picture>
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="PHP" width="40" height="40"/></picture>
@@ -35,9 +42,9 @@
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" title="Prisma" width="40" height="40"/></picture>
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" title="Firebase" width="40" height="40"/></picture>
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" title="Git" width="40" height="40"/></picture>
+<picture><img src="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/main/assets/cursor.png" alt="cursor" title="Cursor" height="40"/></picture>
+<picture><img src="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/main/assets/antigravity.png" alt="antigravity" title="Antigravity" height="40"/></picture>
 </p>
-
-**Also:** Dynamics 365 · Dataverse · ASP.NET Web API · REST APIs · SQL · Cursor · Antigravity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamiAbuTouq/SamiAbuTouq/output/github-snake-dark.svg" />
